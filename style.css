@@ -494,6 +494,20 @@ a {
     padding-left: 5rem;
 }
 
+.link {
+    display: none;
+    position: absolute;
+    top: 607%;
+    left: 85%;
+    padding: 5px;
+    border: #111 groove;
+    background: #fff;
+    box-shadow: rgb(52, 50, 50);
+}
+
+.QR:hover >.link {
+    display: block;
+}
 
 
 footer {
