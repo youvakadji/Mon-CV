@@ -617,14 +617,16 @@ footer div ul li a {
     body {
         width:min-content;
     }
+    .home {
+        padding-bottom: 50px;
+    }
 
     .div {
         position: absolute;
-        top: 50%;
+        top: 60%;
         left: 50%;
         transform: translate(50%,-50%);
         width: min-content;
-        padding-top: 20px;
         margin: 0;
     }
 
