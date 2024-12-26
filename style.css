@@ -315,7 +315,7 @@ a {
 }
 
 .skill {
-    width: 800px;
+    width: 700px;
 }
 
 .lang {
@@ -363,7 +363,7 @@ a {
 #project h2::after {
     content: '';
     position: absolute;
-    top: calc(100% + 114rem);
+    top: calc(100% + 135rem);
     height: 5px;
     width: 3rem;
     background: rgb(100, 181, 246);
@@ -465,7 +465,7 @@ a {
 #contact h2::after {
     content: '';
     position: absolute;
-    top: calc(100% + 224rem);
+    top: calc(100% + 213rem);
     height: 5px;
     width: 3rem;
     background: rgb(100, 181, 246);
