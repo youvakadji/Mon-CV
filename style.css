@@ -314,9 +314,13 @@ a {
     gap: 100px;
 }
 
+.skill {
+    width: 800px;
+}
+
 .lang {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 30px;
 }
 
